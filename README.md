@@ -1,4 +1,4 @@
-<h1> Data Analysis Project on Churn Analysis </h1>
+<h1> OTT Subscriber Churn Analysis </h1>
 
 This is a project following Rishabh Mishra's walkthrough
 
