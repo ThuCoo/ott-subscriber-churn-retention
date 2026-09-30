@@ -66,6 +66,20 @@ Key features:
 
 <h2> Visualization using Matplotlib </h2>
 
+![Monthly Churn Trend](https://github.com/ThuCoo/DAProject_Churn/blob/07dbc818c44ec4c6c4dc2feceefbc8ed93354d07/visualization/monthly_churn_trend.png)
+
+![Churn Rate by Plan Type](https://github.com/ThuCoo/DAProject_Churn/blob/07dbc818c44ec4c6c4dc2feceefbc8ed93354d07/visualization/churn_rate_by_plan_type.png)
+
+![Churn Rate by State](https://github.com/ThuCoo/DAProject_Churn/blob/07dbc818c44ec4c6c4dc2feceefbc8ed93354d07/visualization/churn_rate_by_state.png)
+
+![Correlation Matrix on Numeric Figures](https://github.com/ThuCoo/DAProject_Churn/blob/07dbc818c44ec4c6c4dc2feceefbc8ed93354d07/visualization/heatmap_numeric.png)
+
+![Correlation Matrix on Churn Data](https://github.com/ThuCoo/DAProject_Churn/blob/07dbc818c44ec4c6c4dc2feceefbc8ed93354d07/visualization/heatmap_churn.png)
+
+![Pairplot](https://github.com/ThuCoo/DAProject_Churn/blob/07dbc818c44ec4c6c4dc2feceefbc8ed93354d07/visualization/pairplot.png)
+
+![Catplot](https://github.com/ThuCoo/DAProject_Churn/blob/07dbc818c44ec4c6c4dc2feceefbc8ed93354d07/visualization/catplot.png)
+
 <h2> Business Recommendations </h2>
 
 - **Audit the Basic Plan Offering**: Due to 60% churn rate isolated within the Basic plan, immediate audits of the Basic tier's content restrictions, ad-load, or recent price hikes are necessary to prevent further low-tier drop-offs.
