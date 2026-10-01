@@ -131,6 +131,7 @@ flowchart TD
 
 Triggered when an active subscriber (`churn_flag == 0`) selects a `cancellation_reason` in Account Settings:
 
+![Wireframe](wireframe.png)
 
 ---
 
